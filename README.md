@@ -1,13 +1,5 @@
 # A Clone React Portfolio
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
+The ideia is to make a portfolio for 42basecamp.
 ### `npm start`
 
 Runs the app in the development mode.\
